@@ -57,4 +57,4 @@ python bot.py
 
 ## Автор
 
-Ваше Имя - [ваш профиль на GitHub](https://github.com/NoNeedToSleep)
+[noneedtosleep](https://github.com/NoNeedToSleep)
